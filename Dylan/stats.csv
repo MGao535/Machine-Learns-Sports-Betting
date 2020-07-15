@@ -1,0 +1,257 @@
+,Week,Date,Winner/tie,Loser/tie,PtsW,PtsL,YdsW,TOW,YdsL,TOL,net_ptsw,net_ptsl,net_ydsw,net_ydsl,net_tovw,net_tovl
+0,1,September 6,Indianapolis Colts,New Orleans Saints,41,10,452,1,293,3,0,0,0,0,0,0
+1,1,September 9,Carolina Panthers,St. Louis Rams,27,13,385,2,238,2,0,0,0,0,0,0
+2,1,September 9,Minnesota Vikings,Atlanta Falcons,24,3,302,1,265,2,0,0,0,0,0,0
+3,1,September 9,Washington Redskins,Miami Dolphins,16,13,400,2,273,1,0,0,0,0,0,0
+4,1,September 9,Denver Broncos,Buffalo Bills,15,14,470,1,184,1,0,0,0,0,0,0
+5,1,September 9,Green Bay Packers,Philadelphia Eagles,16,13,215,2,283,3,0,0,0,0,0,0
+6,1,September 9,Pittsburgh Steelers,Cleveland Browns,34,7,365,1,221,5,0,0,0,0,0,0
+7,1,September 9,New England Patriots,New York Jets,38,14,431,0,227,0,0,0,0,0,0,0
+8,1,September 9,Tennessee Titans,Jacksonville Jaguars,13,10,350,2,272,1,0,0,0,0,0,0
+9,1,September 9,Houston Texans,Kansas City Chiefs,20,3,315,2,219,4,0,0,0,0,0,0
+10,1,September 9,San Diego Chargers,Chicago Bears,14,3,263,2,202,4,0,0,0,0,0,0
+11,1,September 9,Seattle Seahawks,Tampa Bay Buccaneers,20,6,343,1,284,2,0,0,0,0,0,0
+12,1,September 9,Detroit Lions,Oakland Raiders,36,21,392,2,375,3,0,0,0,0,0,0
+13,1,September 9,Dallas Cowboys,New York Giants,45,35,478,2,438,1,0,0,0,0,0,0
+14,1,September 10,Cincinnati Bengals,Baltimore Ravens,27,20,236,2,314,6,0,0,0,0,0,0
+15,1,September 10,San Francisco 49ers,Arizona Cardinals,20,17,194,1,261,2,0,0,0,0,0,0
+16,2,September 16,San Francisco 49ers,St. Louis Rams,17,16,186,2,392,3,3,-14,-67,-147,-1,0
+17,2,September 16,Houston Texans,Carolina Panthers,34,21,346,1,353,3,17,14,96,147,-2,0
+18,2,September 16,Indianapolis Colts,Tennessee Titans,22,20,381,1,313,2,31,3,159,78,-2,1
+19,2,September 16,Pittsburgh Steelers,Buffalo Bills,26,3,420,1,223,0,27,-1,144,-286,-4,0
+20,2,September 16,Cleveland Browns,Cincinnati Bengals,51,45,554,1,531,3,-27,7,-144,-78,4,-4
+21,2,September 16,Tampa Bay Buccaneers,New Orleans Saints,31,14,330,0,343,2,-14,-31,-59,-159,1,2
+22,2,September 16,Green Bay Packers,New York Giants,35,13,368,1,325,2,3,-10,-68,-40,-1,-1
+23,2,September 16,Jacksonville Jaguars,Atlanta Falcons,13,7,364,0,248,0,-3,-21,-78,-37,-1,1
+24,2,September 16,Dallas Cowboys,Miami Dolphins,37,20,352,0,334,5,10,-3,40,-127,1,-1
+25,2,September 16,Detroit Lions,Minnesota Vikings,20,17,415,5,313,5,15,21,17,37,-1,-1
+26,2,September 16,Arizona Cardinals,Seattle Seahawks,23,20,431,1,362,1,-3,14,67,59,1,-1
+27,2,September 16,Chicago Bears,Kansas City Chiefs,20,10,239,3,281,2,-11,-17,-61,-96,2,2
+28,2,September 16,Baltimore Ravens,New York Jets,20,13,303,0,304,2,-7,-24,78,-204,4,0
+29,2,September 16,Denver Broncos,Oakland Raiders,23,20,441,2,253,3,1,-15,286,-17,0,1
+30,2,September 16,New England Patriots,San Diego Chargers,38,14,407,2,201,3,24,11,204,61,0,-2
+31,2,September 17,Washington Redskins,Philadelphia Eagles,20,12,337,1,340,0,3,-3,127,68,1,1
+32,3,September 23,Baltimore Ravens,Arizona Cardinals,26,23,381,1,364,1,0,0,77,136,2,1
+33,3,September 23,Kansas City Chiefs,Minnesota Vikings,13,10,251,1,256,1,-27,18,-54,-65,1,-1
+34,3,September 23,Pittsburgh Steelers,San Francisco 49ers,37,16,350,1,289,1,50,4,341,-273,-3,-2
+35,3,September 23,New England Patriots,Buffalo Bills,38,7,485,1,193,2,48,-24,410,-483,-1,-1
+36,3,September 23,Philadelphia Eagles,Detroit Lions,56,21,536,2,432,3,-11,18,71,119,0,-1
+37,3,September 23,Green Bay Packers,San Diego Chargers,31,24,405,0,364,1,25,-13,-25,-145,-2,-1
+38,3,September 23,Tampa Bay Buccaneers,St. Louis Rams,24,3,322,1,245,3,3,-15,-72,59,-1,1
+39,3,September 23,New York Jets,Miami Dolphins,31,28,256,0,424,1,-31,-20,-203,-145,2,4
+40,3,September 23,Indianapolis Colts,Houston Texans,30,24,362,0,254,2,33,30,227,89,-3,-4
+41,3,September 23,Oakland Raiders,Cleveland Browns,26,24,396,2,312,2,-18,-21,-205,-121,2,2
+42,3,September 23,Seattle Seahawks,Cincinnati Bengals,24,21,340,2,412,4,11,1,-10,-101,-1,-2
+43,3,September 23,Jacksonville Jaguars,Denver Broncos,23,14,326,2,265,3,3,4,38,474,-1,-1
+44,3,September 23,Carolina Panthers,Atlanta Falcons,27,20,313,0,442,2,1,-27,154,-153,2,1
+45,3,September 23,New York Giants,Washington Redskins,24,17,315,3,260,1,-32,11,-83,124,0,2
+46,3,September 23,Dallas Cowboys,Chicago Bears,34,10,431,1,239,4,27,-1,58,-103,-4,3
+47,3,September 24,Tennessee Titans,New Orleans Saints,31,14,284,1,252,5,1,-48,10,-146,2,4
+48,4,September 30,Cleveland Browns,Baltimore Ravens,27,13,303,1,418,2,-23,3,-205,94,2,2
+49,4,September 30,Buffalo Bills,New York Jets,17,14,304,2,347,2,-55,-28,-775,-371,0,1
+50,4,September 30,Dallas Cowboys,St. Louis Rams,35,7,502,1,187,1,51,-36,250,-18,-7,3
+51,4,September 30,Atlanta Falcons,Houston Texans,26,16,304,0,398,2,-34,24,-24,-19,3,-2
+52,4,September 30,Detroit Lions,Chicago Bears,37,27,310,2,303,3,-17,-25,15,-295,0,6
+53,4,September 30,Green Bay Packers,Minnesota Vikings,23,16,384,2,382,2,32,15,16,-60,-3,-1
+54,4,September 30,Oakland Raiders,Miami Dolphins,35,17,369,1,278,2,-16,-23,-121,23,2,5
+55,4,September 30,Seattle Seahawks,San Francisco 49ers,23,3,371,1,184,3,14,-17,-82,-334,-3,-2
+56,4,September 30,Tampa Bay Buccaneers,Carolina Panthers,20,7,365,1,236,2,24,8,5,25,-3,0
+57,4,September 30,Indianapolis Colts,Denver Broncos,38,20,419,0,354,2,39,-5,335,413,-5,0
+58,4,September 30,Arizona Cardinals,Pittsburgh Steelers,21,14,301,2,282,2,-3,71,119,402,1,-3
+59,4,September 30,Kansas City Chiefs,San Diego Chargers,30,16,390,2,333,4,-24,-20,-59,-186,1,0
+60,4,September 30,New York Giants,Philadelphia Eagles,16,3,212,1,190,1,-25,24,-28,175,2,-1
+61,4,October 1,New England Patriots,Cincinnati Bengals,34,13,404,1,283,2,79,-2,702,-29,-2,0
+62,5,October 7,Jacksonville Jaguars,Kansas City Chiefs,17,7,357,0,271,1,12,-10,99,-2,-2,-1
+63,5,October 7,Houston Texans,Miami Dolphins,22,19,352,2,285,1,14,-41,75,-68,0,6
+64,5,October 7,New York Giants,New York Jets,35,24,374,2,277,3,-12,-31,-6,-328,2,1
+65,5,October 7,Pittsburgh Steelers,Seattle Seahawks,21,0,342,0,144,1,64,34,383,105,-3,-5
+66,5,October 7,Washington Redskins,Detroit Lions,34,3,366,1,144,2,4,-7,69,22,0,-1
+67,5,October 7,New England Patriots,Cleveland Browns,34,17,412,0,353,4,100,-9,823,-320,-3,1
+68,5,October 7,Arizona Cardinals,St. Louis Rams,34,31,383,2,375,3,4,-64,138,-333,1,3
+69,5,October 7,Carolina Panthers,New Orleans Saints,16,13,243,1,341,2,-5,-65,-104,-178,1,8
+70,5,October 7,Tennessee Titans,Atlanta Falcons,20,13,249,5,198,2,18,-24,42,-118,-2,1
+71,5,October 7,Indianapolis Colts,Tampa Bay Buccaneers,33,14,400,1,177,1,57,37,400,134,-7,-4
+72,5,October 7,San Diego Chargers,Denver Broncos,41,3,484,0,296,3,-34,-23,-243,348,2,2
+73,5,October 7,Baltimore Ravens,San Francisco 49ers,9,7,315,0,163,1,-11,-37,209,-521,3,0
+74,5,October 7,Chicago Bears,Green Bay Packers,27,20,285,1,439,5,-35,39,-302,18,7,-3
+75,5,October 8,Dallas Cowboys,Buffalo Bills,25,24,385,6,229,1,79,-52,565,-818,-7,0
+76,6,October 14,Kansas City Chiefs,Cincinnati Bengals,27,20,354,2,373,3,-20,-23,-88,-150,0,1
+77,6,October 14,Minnesota Vikings,Chicago Bears,34,31,444,0,458,4,8,-28,-62,-456,-1,3
+78,6,October 14,Baltimore Ravens,St. Louis Rams,22,3,248,2,264,6,-9,-67,361,-341,2,4
+79,6,October 14,Green Bay Packers,Washington Redskins,17,14,225,2,304,3,32,35,172,291,1,-1
+80,6,October 14,Philadelphia Eagles,New York Jets,16,9,413,1,267,1,11,-42,153,-425,-1,2
+81,6,October 14,Tampa Bay Buccaneers,Tennessee Titans,13,10,304,1,317,3,18,25,-89,93,-4,1
+82,6,October 14,Jacksonville Jaguars,Houston Texans,37,17,457,3,390,3,22,17,185,142,-3,1
+83,6,October 14,Cleveland Browns,Miami Dolphins,41,31,384,1,356,2,-26,-44,-379,-135,5,5
+84,6,October 14,Carolina Panthers,Arizona Cardinals,25,10,374,0,255,5,-2,7,-202,146,0,0
+85,6,October 14,San Diego Chargers,Oakland Raiders,28,14,362,1,245,3,4,2,-55,-30,-1,1
+86,6,October 14,New England Patriots,Dallas Cowboys,48,27,448,1,285,1,117,80,882,721,-7,-2
+87,6,October 14,New Orleans Saints,Seattle Seahawks,28,17,367,1,425,2,-68,13,-80,-93,9,-4
+88,6,October 15,New York Giants,Atlanta Falcons,31,10,491,3,284,1,-1,-31,91,-169,1,-2
+89,7,October 21,Buffalo Bills,Baltimore Ravens,19,14,242,1,308,1,-53,10,-974,345,-5,-2
+90,7,October 21,Washington Redskins,Arizona Cardinals,21,19,160,1,364,3,32,-8,370,27,0,5
+91,7,October 21,New England Patriots,Miami Dolphins,49,28,443,1,382,2,138,-54,1045,-163,-7,6
+92,7,October 21,Tennessee Titans,Houston Texans,38,36,422,2,333,6,22,-3,106,75,3,1
+93,7,October 21,Detroit Lions,Tampa Bay Buccaneers,23,16,278,0,422,2,-38,21,-200,-102,0,-6
+94,7,October 21,New York Giants,San Francisco 49ers,33,15,279,1,267,4,20,-39,298,-673,3,1
+95,7,October 21,New Orleans Saints,Atlanta Falcons,22,16,310,1,334,0,-57,-52,-138,-376,8,-4
+96,7,October 21,Cincinnati Bengals,New York Jets,38,31,395,1,342,2,-30,-49,-131,-571,2,2
+97,7,October 21,Kansas City Chiefs,Oakland Raiders,12,10,290,1,268,2,-13,-12,-107,-147,-1,3
+98,7,October 21,Chicago Bears,Philadelphia Eagles,19,16,386,0,334,0,-31,18,-442,299,7,-1
+99,7,October 21,Dallas Cowboys,Minnesota Vikings,24,14,381,2,196,1,59,11,558,-76,-2,-5
+100,7,October 21,Seattle Seahawks,St. Louis Rams,33,6,289,1,221,5,2,-86,-35,-325,-3,8
+101,7,October 21,Denver Broncos,Pittsburgh Steelers,31,28,324,2,379,3,-61,85,160,581,5,-4
+102,7,October 22,Indianapolis Colts,Jacksonville Jaguars,29,7,384,1,226,3,76,42,623,252,-7,-3
+103,8,October 28,Cleveland Browns,St. Louis Rams,27,20,368,0,393,1,-16,-113,-351,-393,4,12
+104,8,October 28,Pittsburgh Steelers,Cincinnati Bengals,24,13,390,1,296,1,82,-23,636,-78,-3,1
+105,8,October 28,Tennessee Titans,Oakland Raiders,13,9,218,0,235,2,24,-14,195,-169,-1,4
+106,8,October 28,Indianapolis Colts,Carolina Panthers,31,7,395,1,293,3,98,13,781,-83,-9,-5
+107,8,October 28,New York Giants,Miami Dolphins,13,10,238,1,245,2,38,-75,310,-224,0,7
+108,8,October 28,Philadelphia Eagles,Minnesota Vikings,23,16,385,0,256,0,15,1,247,-261,-1,-6
+109,8,October 28,Detroit Lions,Chicago Bears,16,7,365,1,255,4,-31,-28,-344,-390,-2,7
+110,8,October 28,Jacksonville Jaguars,Tampa Bay Buccaneers,24,23,219,0,385,3,20,14,94,42,-1,-4
+111,8,October 28,Buffalo Bills,New York Jets,13,3,347,1,254,3,-48,-56,-1040,-624,-5,3
+112,8,October 28,San Diego Chargers,Houston Texans,35,10,237,0,367,5,18,-5,62,-14,-3,5
+113,8,October 28,New Orleans Saints,San Francisco 49ers,31,10,438,1,260,1,-51,-57,-162,-685,9,4
+114,8,October 28,New England Patriots,Washington Redskins,52,7,486,1,224,4,159,34,1106,166,-8,-2
+115,8,October 29,Green Bay Packers,Denver Broncos,19,13,430,0,332,1,35,-58,93,105,0,4
+116,9,November 4,Green Bay Packers,Kansas City Chiefs,33,22,432,2,234,2,41,-11,191,-85,-1,-2
+117,9,November 4,Tampa Bay Buccaneers,Arizona Cardinals,17,10,350,0,195,2,13,-10,208,231,-1,7
+118,9,November 4,Atlanta Falcons,San Francisco 49ers,20,16,286,1,251,4,-58,-78,-352,-863,-5,4
+119,9,November 4,Detroit Lions,Denver Broncos,44,7,376,1,303,4,-22,-64,-234,7,-5,5
+120,9,November 4,New Orleans Saints,Jacksonville Jaguars,41,24,538,1,432,3,-30,21,16,-72,9,-4
+121,9,November 4,Buffalo Bills,Cincinnati Bengals,33,21,479,1,299,1,-38,-34,-947,-172,-7,1
+122,9,November 4,Tennessee Titans,Carolina Panthers,20,7,236,4,191,2,28,-11,178,-185,-3,-3
+123,9,November 4,Washington Redskins,New York Jets,23,20,431,1,338,1,-11,-66,-96,-717,1,5
+124,9,November 4,Minnesota Vikings,San Diego Chargers,35,17,528,2,229,2,-6,43,-390,-68,-6,-8
+125,9,November 4,Cleveland Browns,Seattle Seahawks,33,30,428,1,423,2,-9,29,-376,33,3,-7
+126,9,November 4,Houston Texans,Oakland Raiders,24,17,359,1,310,3,-30,-18,116,-152,10,6
+127,9,November 4,New England Patriots,Indianapolis Colts,24,20,342,2,329,2,204,122,1368,883,-11,-11
+128,9,November 4,Dallas Cowboys,Philadelphia Eagles,38,17,434,1,316,3,69,22,743,376,-1,-1
+129,9,November 5,Pittsburgh Steelers,Baltimore Ravens,38,7,291,1,104,4,93,5,730,411,-3,-2
+130,10,November 11,Denver Broncos,Kansas City Chiefs,27,11,327,1,284,4,-101,-22,-66,-283,8,-2
+131,10,November 11,St. Louis Rams,New Orleans Saints,37,29,409,0,299,2,-120,-13,-368,122,13,7
+132,10,November 11,Green Bay Packers,Minnesota Vikings,34,0,488,0,247,1,52,12,389,-91,-1,-6
+133,10,November 11,Pittsburgh Steelers,Cleveland Browns,31,28,401,1,163,1,124,-6,917,-371,-6,2
+134,10,November 11,Buffalo Bills,Miami Dolphins,13,10,214,1,269,0,-26,-78,-767,-217,-7,8
+135,10,November 11,Atlanta Falcons,Carolina Panthers,20,13,277,1,235,2,-54,-24,-317,-230,-8,-5
+136,10,November 11,Philadelphia Eagles,Washington Redskins,33,25,379,2,361,2,1,-8,258,-3,1,1
+137,10,November 11,Jacksonville Jaguars,Tennessee Titans,28,13,262,1,292,3,4,41,-178,223,-2,-1
+138,10,November 11,Cincinnati Bengals,Baltimore Ravens,21,7,326,0,272,6,-46,-26,-352,224,1,1
+139,10,November 11,Chicago Bears,Oakland Raiders,17,6,295,0,193,3,-37,-25,-500,-201,10,8
+140,10,November 11,Arizona Cardinals,Detroit Lions,31,21,319,4,247,5,-17,15,76,-161,9,-8
+141,10,November 11,Dallas Cowboys,New York Giants,31,20,323,1,300,2,90,41,861,303,-3,-1
+142,10,November 11,San Diego Chargers,Indianapolis Colts,23,21,177,3,386,6,25,118,-367,870,-8,-11
+143,10,November 12,Seattle Seahawks,San Francisco 49ers,24,0,380,2,173,2,26,-82,28,-898,-6,7
+144,11,November 18,Cleveland Browns,Baltimore Ravens,33,30,380,2,368,4,-9,-40,-609,170,2,7
+145,11,November 18,Green Bay Packers,Carolina Panthers,31,17,317,0,382,3,86,-31,630,-272,-2,-4
+146,11,November 18,Houston Texans,New Orleans Saints,23,10,390,2,327,3,-23,-21,165,12,8,9
+147,11,November 18,Indianapolis Colts,Kansas City Chiefs,13,10,216,1,234,2,116,-38,1079,-326,-8,1
+148,11,November 18,Philadelphia Eagles,Miami Dolphins,17,7,352,3,186,0,9,-81,276,-162,1,7
+149,11,November 18,Arizona Cardinals,Cincinnati Bengals,35,27,247,0,396,5,-7,-32,148,-298,8,-5
+150,11,November 18,Jacksonville Jaguars,San Diego Chargers,24,17,311,0,388,2,19,27,-208,-576,-4,-11
+151,11,November 18,New York Giants,Detroit Lions,16,10,341,2,376,4,30,5,280,-233,0,-7
+152,11,November 18,Tampa Bay Buccaneers,Atlanta Falcons,31,7,305,2,265,4,20,-47,363,-275,-3,-9
+153,11,November 18,Minnesota Vikings,Oakland Raiders,29,22,478,5,372,2,-22,-36,-332,-303,-5,11
+154,11,November 18,New York Jets,Pittsburgh Steelers,19,16,297,1,263,2,-69,127,-810,1155,5,-6
+155,11,November 18,Dallas Cowboys,Washington Redskins,28,23,362,1,423,2,101,-16,884,-21,-4,1
+156,11,November 18,St. Louis Rams,San Francisco 49ers,13,9,207,0,244,2,-112,-106,-258,-1105,11,7
+157,11,November 18,Seattle Seahawks,Chicago Bears,30,23,425,1,345,1,50,-26,235,-398,-6,7
+158,11,November 18,New England Patriots,Buffalo Bills,56,10,510,0,229,2,208,-23,1381,-822,-11,-6
+159,11,November 19,Denver Broncos,Tennessee Titans,34,20,359,1,423,3,-85,26,-23,253,5,1
+160,12,November 22,Green Bay Packers,Detroit Lions,37,26,481,1,331,1,100,-1,565,-198,-5,-5
+161,12,November 22,Dallas Cowboys,New York Jets,34,3,344,1,180,2,106,-66,823,-776,-5,4
+162,12,November 22,Indianapolis Colts,Atlanta Falcons,31,13,365,1,250,2,119,-71,1061,-315,-9,-7
+163,12,November 25,Oakland Raiders,Kansas City Chiefs,20,17,312,1,292,1,-43,-41,-409,-308,8,2
+164,12,November 25,Seattle Seahawks,St. Louis Rams,24,19,302,2,265,2,57,-108,315,-295,-6,9
+165,12,November 25,Cincinnati Bengals,Tennessee Titans,35,6,426,1,305,2,-40,12,-149,317,0,3
+166,12,November 25,Tampa Bay Buccaneers,Washington Redskins,19,13,192,0,412,6,44,-21,403,40,-5,2
+167,12,November 25,Minnesota Vikings,New York Giants,41,17,251,0,309,4,-15,36,-226,245,-2,-2
+168,12,November 25,Cleveland Browns,Houston Texans,27,17,397,1,314,3,-6,-10,-597,228,0,7
+169,12,November 25,New Orleans Saints,Carolina Panthers,31,6,373,1,195,4,-34,-45,-51,-207,10,-1
+170,12,November 25,Jacksonville Jaguars,Buffalo Bills,36,14,416,1,297,3,26,-69,-285,-1103,-6,-4
+171,12,November 25,San Francisco 49ers,Arizona Cardinals,37,31,374,0,552,4,-110,1,-1068,-1,9,3
+172,12,November 25,San Diego Chargers,Baltimore Ravens,32,14,332,0,210,2,20,-43,-499,158,-9,9
+173,12,November 25,Chicago Bears,Denver Broncos,37,34,293,4,430,2,-33,-71,-478,-87,7,3
+174,12,November 25,New England Patriots,Philadelphia Eagles,31,28,410,0,391,3,254,19,1662,442,-13,4
+175,12,November 26,Pittsburgh Steelers,Miami Dolphins,3,0,216,1,159,2,124,-91,1121,-328,-5,4
+176,13,November 29,Dallas Cowboys,Green Bay Packers,37,27,414,1,357,2,137,111,987,715,-6,-5
+177,13,December 2,St. Louis Rams,Atlanta Falcons,28,16,409,2,435,3,-113,-89,-332,-430,9,-6
+178,13,December 2,San Diego Chargers,Kansas City Chiefs,24,10,330,1,268,4,38,-44,-377,-328,-11,2
+179,13,December 2,Buffalo Bills,Washington Redskins,17,16,357,1,281,2,-91,-27,-1222,260,-2,8
+180,13,December 2,Seattle Seahawks,Philadelphia Eagles,28,24,311,2,363,4,62,16,352,423,-6,7
+181,13,December 2,Tennessee Titans,Houston Texans,28,20,382,1,315,2,-17,-20,196,145,4,9
+182,13,December 2,Indianapolis Colts,Jacksonville Jaguars,28,25,342,1,411,2,137,48,1176,-166,-10,-8
+183,13,December 2,New York Jets,Miami Dolphins,40,13,372,2,187,5,-97,-94,-940,-385,5,5
+184,13,December 2,Carolina Panthers,San Francisco 49ers,31,14,323,2,195,6,-70,-104,-385,-1246,2,5
+185,13,December 2,Minnesota Vikings,Detroit Lions,42,10,443,1,253,1,9,-12,-284,-348,-6,-5
+186,13,December 2,Oakland Raiders,Denver Broncos,34,20,372,1,292,4,-40,-74,-389,50,8,1
+187,13,December 2,Arizona Cardinals,Cleveland Browns,27,21,302,1,379,4,-5,4,177,-514,7,-2
+188,13,December 2,New York Giants,Chicago Bears,21,16,356,4,312,0,12,-30,303,-615,2,9
+189,13,December 2,Tampa Bay Buccaneers,New Orleans Saints,27,23,466,1,246,1,50,-9,183,127,-11,7
+190,13,December 2,Pittsburgh Steelers,Cincinnati Bengals,24,10,285,4,249,1,127,-11,1178,-28,-6,-1
+191,13,December 3,New England Patriots,Baltimore Ravens,27,24,326,1,376,2,257,-61,1681,36,-16,11
+192,14,December 6,Washington Redskins,Chicago Bears,24,16,345,1,356,2,-28,-35,184,-659,9,5
+193,14,December 9,Houston Texans,Tampa Bay Buccaneers,28,14,257,2,305,2,-28,54,78,403,10,-11
+194,14,December 9,Buffalo Bills,Miami Dolphins,38,17,389,1,285,5,-90,-121,-1146,-570,-3,8
+195,14,December 9,San Diego Chargers,Tennessee Titans,23,17,341,3,240,2,52,-9,-315,263,-14,3
+196,14,December 9,Cincinnati Bengals,St. Louis Rams,19,10,370,2,241,2,-25,-101,-64,-358,-4,8
+197,14,December 9,Green Bay Packers,Oakland Raiders,38,7,445,1,233,3,101,-26,658,-309,-4,5
+198,14,December 9,New York Giants,Philadelphia Eagles,16,13,318,2,306,1,17,12,347,475,6,9
+199,14,December 9,Dallas Cowboys,Detroit Lions,28,27,368,1,390,0,147,-44,1044,-538,-7,-5
+200,14,December 9,Jacksonville Jaguars,Carolina Panthers,37,6,427,1,149,2,45,-53,-97,-257,-7,-2
+201,14,December 9,Minnesota Vikings,San Francisco 49ers,27,7,280,1,282,5,41,-121,-94,-1374,-6,9
+202,14,December 9,Seattle Seahawks,Arizona Cardinals,42,21,349,0,355,5,66,1,300,100,-8,4
+203,14,December 9,New England Patriots,Pittsburgh Steelers,34,13,421,0,349,1,260,141,1631,1214,-17,-3
+204,14,December 9,Denver Broncos,Kansas City Chiefs,41,7,453,0,129,3,-88,-58,-30,-390,4,5
+205,14,December 9,Cleveland Browns,New York Jets,24,18,337,1,387,2,-2,-70,-437,-755,1,2
+206,14,December 9,Indianapolis Colts,Baltimore Ravens,44,20,334,0,243,5,140,-64,1107,86,-11,12
+207,14,December 10,New Orleans Saints,Atlanta Falcons,34,14,473,1,323,1,-13,-101,-93,-404,7,-5
+208,15,December 13,Houston Texans,Denver Broncos,31,13,358,1,308,0,-14,-54,30,294,10,1
+209,15,December 15,San Francisco 49ers,Cincinnati Bengals,20,13,337,0,313,0,-141,-16,-1372,65,13,-4
+210,15,December 16,Tennessee Titans,Kansas City Chiefs,26,17,327,0,306,3,-15,-92,162,-714,2,8
+211,15,December 16,Green Bay Packers,St. Louis Rams,33,14,277,3,364,2,132,-110,870,-487,-6,8
+212,15,December 16,Carolina Panthers,Seattle Seahawks,13,10,322,0,282,1,-84,87,-535,294,-1,-13
+213,15,December 16,New England Patriots,New York Jets,20,10,265,1,234,2,281,-76,1703,-705,-18,3
+214,15,December 16,Cleveland Browns,Buffalo Bills,8,0,304,0,232,0,4,-69,-487,-1042,0,-7
+215,15,December 16,Jacksonville Jaguars,Pittsburgh Steelers,29,22,421,1,217,0,76,120,181,1142,-8,-2
+216,15,December 16,New Orleans Saints,Arizona Cardinals,31,24,421,2,317,2,7,-20,57,106,7,9
+217,15,December 16,Miami Dolphins,Baltimore Ravens,22,16,360,0,345,1,-142,-88,-674,-5,12,17
+218,15,December 16,Tampa Bay Buccaneers,Atlanta Falcons,37,3,285,1,133,4,40,-121,451,-554,-11,-5
+219,15,December 16,Indianapolis Colts,Oakland Raiders,21,14,322,1,253,0,164,-57,1198,-521,-16,7
+220,15,December 16,Philadelphia Eagles,Dallas Cowboys,10,6,315,1,240,3,9,148,463,1022,8,-6
+221,15,December 16,San Diego Chargers,Detroit Lions,51,14,416,0,328,6,58,-45,-214,-516,-13,-6
+222,15,December 16,Washington Redskins,New York Giants,22,10,309,0,307,1,-20,20,173,359,8,7
+223,15,December 17,Minnesota Vikings,Chicago Bears,20,13,372,4,209,1,61,-43,-96,-648,-10,6
+224,16,December 20,Pittsburgh Steelers,St. Louis Rams,41,24,425,0,316,2,113,-129,938,-400,-3,7
+225,16,December 22,Dallas Cowboys,Carolina Panthers,20,13,405,1,216,1,144,-81,947,-495,-4,-2
+226,16,December 23,Detroit Lions,Kansas City Chiefs,25,20,236,1,407,1,-82,-101,-604,-735,0,11
+227,16,December 23,Cincinnati Bengals,Cleveland Browns,19,14,270,3,380,4,-23,12,41,-415,-4,0
+228,16,December 23,New York Giants,Buffalo Bills,38,21,383,4,244,4,8,-77,357,-1114,8,-7
+229,16,December 23,Jacksonville Jaguars,Oakland Raiders,49,11,437,2,215,4,83,-64,385,-590,-7,6
+230,16,December 23,Philadelphia Eagles,New Orleans Saints,38,23,435,1,346,1,13,14,538,161,6,7
+231,16,December 23,Indianapolis Colts,Houston Texans,38,15,458,1,299,3,171,4,1267,80,-15,11
+232,16,December 23,Chicago Bears,Green Bay Packers,35,7,240,0,274,2,-50,151,-811,783,3,-5
+233,16,December 23,Arizona Cardinals,Atlanta Falcons,30,27,437,0,405,1,-27,-155,2,-706,9,-2
+234,16,December 23,San Francisco 49ers,Tampa Bay Buccaneers,21,19,213,2,434,2,-134,74,-1348,603,13,-14
+235,16,December 23,Tennessee Titans,New York Jets,10,6,273,2,296,2,-6,-86,183,-736,-1,4
+236,16,December 23,New England Patriots,Miami Dolphins,28,7,400,4,241,0,291,-136,1734,-659,-19,11
+237,16,December 23,Seattle Seahawks,Baltimore Ravens,27,6,336,2,293,3,84,-94,254,-20,-12,18
+238,16,December 23,Washington Redskins,Minnesota Vikings,32,21,367,0,299,3,-8,68,175,67,7,-7
+239,16,December 24,San Diego Chargers,Denver Broncos,23,3,334,1,225,3,95,-72,-126,244,-19,0
+240,17,December 29,New England Patriots,New York Giants,38,35,390,0,316,1,312,25,1893,496,-15,8
+241,17,December 30,Chicago Bears,New Orleans Saints,33,25,275,3,413,3,-22,-1,-845,72,1,7
+242,17,December 30,Philadelphia Eagles,Buffalo Bills,17,9,391,2,271,0,28,-94,627,-1253,6,-7
+243,17,December 30,Houston Texans,Jacksonville Jaguars,42,28,290,1,381,1,-19,121,-79,607,13,-9
+244,17,December 30,Green Bay Packers,Detroit Lions,34,13,394,1,293,2,123,-77,817,-775,-3,0
+245,17,December 30,Carolina Panthers,Tampa Bay Buccaneers,31,23,349,2,303,1,-88,72,-684,824,-2,-14
+246,17,December 30,Cleveland Browns,San Francisco 49ers,20,7,358,1,185,0,7,-132,-305,-1569,1,13
+247,17,December 30,Cincinnati Bengals,Miami Dolphins,38,25,393,1,336,1,-18,-157,-69,-818,-5,7
+248,17,December 30,Atlanta Falcons,Seattle Seahawks,44,41,364,0,501,3,-158,105,-738,297,-1,-13
+249,17,December 30,New York Jets,Kansas City Chiefs,13,10,337,0,219,0,-90,-106,-713,-564,4,11
+250,17,December 30,Washington Redskins,Dallas Cowboys,27,6,354,2,147,1,3,151,243,1136,4,-4
+251,17,December 30,San Diego Chargers,Oakland Raiders,30,17,253,1,316,4,115,-102,-17,-812,-21,8
+252,17,December 30,Arizona Cardinals,St. Louis Rams,48,19,422,2,234,3,-24,-146,34,-509,8,9
+253,17,December 30,Denver Broncos,Minnesota Vikings,22,19,362,0,332,3,-92,57,135,-1,2,-4
+254,17,December 30,Baltimore Ravens,Pittsburgh Steelers,27,21,334,1,264,3,-115,130,-63,1047,19,-5
+255,17,December 30,Tennessee Titans,Indianapolis Colts,16,10,356,2,194,1,-2,194,160,1426,-1,-17
