@@ -30,4 +30,4 @@
 
 # Link to presentation: https://github.com/MGao535/Machine-Learns-Sports-Betting/blob/master/Final/Beating%20Vegas%20using%20Machine%20Learning%20.pdf
 
-https://user-images.githubusercontent.com/35829105/93822462-e2f64000-fc25-11ea-994a-565302371c72.png
+![Image of Graph](https://user-images.githubusercontent.com/35829105/93822462-e2f64000-fc25-11ea-994a-565302371c72.png)
