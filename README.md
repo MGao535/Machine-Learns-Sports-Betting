@@ -28,6 +28,6 @@
 ### Results
 #### With our best model we were able to achieve a accuracy of 70% in predicting the winner and 54% for the win spread. The 54% does not seem impressive at first but By using an expected outcome formula, we find that being able to correctly pick the spread at >52% means you can  “beat the odds” on your typical -110 bet and win money. Thus our 54% is actually pretty good!!! After calculations we were able to calculate that for every bet you would have a return of $4.24 or 4% 
 
-# Link to presentation: https://github.com/MGao535/Machine-Learns-Sports-Betting/blob/master/Final/Beating%20Vegas%20using%20Machine%20Learning%20.pdf
+# [Link to presentation:](https://github.com/MGao535/Machine-Learns-Sports-Betting/blob/master/Final/Beating%20Vegas%20using%20Machine%20Learning%20.pdf)
 
 ![Image of Graph](https://user-images.githubusercontent.com/35829105/93822462-e2f64000-fc25-11ea-994a-565302371c72.png)
